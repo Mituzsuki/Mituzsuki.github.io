@@ -2,7 +2,7 @@
 
 
 <HTML>
-    <OBJECT data="resources/template.html" width="100%">Your browser does not support the object tag</OBJECT>
+    <OBJECT data="resources/template.html" width="100%" height="100%">Your browser does not support the object tag</OBJECT>
 </HTML>
 
 ***
