@@ -11,7 +11,7 @@
             </a>
             <div class="collpase navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
-                    <div class="dropdown show" class="text-center"> 
+                    <div class="dropdown show text-center"> 
                         <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Projects                       
                         </a>
