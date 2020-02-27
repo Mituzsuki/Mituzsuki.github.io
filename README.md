@@ -6,8 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id orci ut au
 
 ***
 
-
-
+<!DOCTYPE html>
 <HTML>
     <head>
         <link href="resources/bootstrap-css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -15,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id orci ut au
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="#">
-                <img src="github-icon.png" width="30" height="30" class="d-inline-block align-top" alt="GitHub logo">   
+                <img src="resources/github-icon.png" width="30" height="30" class="d-inline-block align-top" alt="GitHub logo">   
                 Holmes-Software
             </a>
             <div class="collpase navbar-collapse" id="navbarNav">
