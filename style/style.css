@@ -1,0 +1,25 @@
+#pageTitle{
+    font-family: pageTitleFont, Fallback, sans-serif;
+}
+
+#profileSection{
+    padding:1%;
+}
+
+#content{
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#avatar{
+    border-radius: 50%;
+    
+    height:auto;
+    width:auto; 
+}
+
+@font-face{
+    font-family: pageTitleFont;
+    src: url("../resources/fonts/Montserrat-Medium.ttf") format("truetype");
+}
