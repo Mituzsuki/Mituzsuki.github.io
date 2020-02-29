@@ -5,7 +5,7 @@
         <p>a</p>
         <div w3-include-html="home.html" height="100%" width="100%"></div>
         <script>
-            w3IncludeHTML;
+            w3IncludeHTML();
         </script>
     </BODY>
 
